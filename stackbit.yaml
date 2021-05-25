@@ -159,5 +159,9 @@ models:
         label: Toc
       - name: draft
         type: boolean
+        label: Draft
       - name: series
+        type: string
+        label: Series
+      - name: ''
         type: string
