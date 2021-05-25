@@ -177,4 +177,6 @@ models:
       - name: lastmod
         type: date
       - name: tags
-        type: string
+        type: list
+        items:
+          type: string
