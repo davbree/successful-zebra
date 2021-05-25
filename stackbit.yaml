@@ -163,5 +163,5 @@ models:
       - name: series
         type: string
         label: Series
-      - name: ''
+      - name: avatar
         type: string
