@@ -184,3 +184,5 @@ models:
           type: string
         description: tags
         label: Tags
+      - name: ''
+        type: string
