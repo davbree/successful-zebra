@@ -157,5 +157,5 @@ models:
       - name: toc
         type: boolean
         label: Toc
-      - name: ''
+      - name: draft
         type: string
