@@ -1,6 +1,5 @@
 
-{{ $hasToc := and (in .TableOfContents "<li>" ) (.Params.toc) }}
-{{ $hasSidebar := or ($hasToc) (.Params.series) }}
+{{ $hasSidebar := false }}
 <div class="lg:pt-12">
     <div class="flex flex-col md:flex-row bg-secondary-bg rounded">
         <div class="md:w-1/4 lg:w-1/5 border-r">
