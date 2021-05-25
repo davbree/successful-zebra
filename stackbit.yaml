@@ -145,4 +145,4 @@ models:
     label: page
     fields:
       - name: headless
-        type: string
+        type: boolean
