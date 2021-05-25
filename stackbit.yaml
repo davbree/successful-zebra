@@ -171,5 +171,3 @@ models:
         label: Bio
       - name: description
         type: string
-      - name: ''
-        type: string
