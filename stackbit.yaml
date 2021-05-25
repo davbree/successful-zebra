@@ -150,3 +150,5 @@ models:
       - name: layout
         type: string
         hidden: true
+      - name: ''
+        type: string
