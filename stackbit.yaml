@@ -147,5 +147,5 @@ models:
       - name: headless
         type: boolean
         label: Headless
-      - name: ''
+      - name: layout
         type: string
