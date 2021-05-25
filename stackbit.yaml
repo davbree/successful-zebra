@@ -144,5 +144,5 @@ models:
     type: page
     label: page
     fields:
-      - name: ''
+      - name: headless
         type: string
