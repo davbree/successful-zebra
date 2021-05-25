@@ -175,4 +175,4 @@ models:
       - name: date
         type: date
       - name: lastmod
-        type: string
+        type: date
