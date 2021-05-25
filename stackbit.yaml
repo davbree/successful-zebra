@@ -165,5 +165,5 @@ models:
         label: Series
       - name: avatar
         type: image
-      - name: ''
+      - name: bio
         type: string
