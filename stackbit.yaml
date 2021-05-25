@@ -165,3 +165,5 @@ models:
         label: Series
       - name: avatar
         type: image
+      - name: ''
+        type: string
