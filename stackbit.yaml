@@ -174,5 +174,5 @@ models:
         label: description
       - name: date
         type: date
-      - name: ''
+      - name: lastmod
         type: string
