@@ -174,10 +174,15 @@ models:
         label: description
       - name: date
         type: date
+        label: Date
       - name: lastmod
         type: date
+        label: Lastmod
       - name: tags
         type: list
         items:
           type: string
         description: tags
+        label: Tags
+      - name: ''
+        type: string
