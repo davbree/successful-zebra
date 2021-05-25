@@ -186,5 +186,5 @@ models:
         label: Tags
       - name: weight
         type: number
-      - name: ''
+      - name: slogan
         type: string
