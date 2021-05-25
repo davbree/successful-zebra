@@ -176,5 +176,5 @@ models:
         type: date
       - name: lastmod
         type: date
-      - name: ''
+      - name: tags
         type: string
