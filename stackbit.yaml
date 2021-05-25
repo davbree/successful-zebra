@@ -150,5 +150,9 @@ models:
       - name: layout
         type: string
         hidden: true
+        label: Layout
       - name: title
+        type: string
+        label: Title
+      - name: ''
         type: string
