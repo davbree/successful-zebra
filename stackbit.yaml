@@ -169,7 +169,7 @@ models:
       - name: bio
         type: string
         label: Bio
-      - name: ''
+      - name: description
         type: string
       - name: ''
         type: string
