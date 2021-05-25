@@ -146,3 +146,6 @@ models:
     fields:
       - name: headless
         type: boolean
+        label: Headless
+      - name: ''
+        type: string
