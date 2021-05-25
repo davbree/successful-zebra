@@ -172,5 +172,5 @@ models:
       - name: description
         type: string
         label: description
-      - name: ''
+      - name: date
         type: string
