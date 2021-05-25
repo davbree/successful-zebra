@@ -159,5 +159,5 @@ models:
         label: Toc
       - name: draft
         type: boolean
-      - name: ''
+      - name: series
         type: string
