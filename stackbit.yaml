@@ -156,3 +156,6 @@ models:
         label: Title
       - name: toc
         type: boolean
+        label: Toc
+      - name: ''
+        type: string
