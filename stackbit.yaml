@@ -173,4 +173,6 @@ models:
         type: string
         label: description
       - name: date
+        type: date
+      - name: ''
         type: string
