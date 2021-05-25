@@ -150,5 +150,5 @@ models:
       - name: layout
         type: string
         hidden: true
-      - name: ''
+      - name: title
         type: string
