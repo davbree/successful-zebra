@@ -158,4 +158,4 @@ models:
         type: boolean
         label: Toc
       - name: draft
-        type: string
+        type: boolean
