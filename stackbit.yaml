@@ -185,4 +185,4 @@ models:
         description: tags
         label: Tags
       - name: weight
-        type: string
+        type: number
