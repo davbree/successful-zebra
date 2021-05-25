@@ -1,3 +1,4 @@
+
 {{ $hasToc := and (in .TableOfContents "<li>" ) (.Params.toc) }}
 {{ $hasSidebar := or ($hasToc) (.Params.series) }}
 <div class="lg:pt-12">
